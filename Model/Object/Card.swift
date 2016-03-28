@@ -23,9 +23,8 @@ struct Card : Mappable {
     var howToGet : String?
     var howToGetGold : String?
 
-	init?(_ map: Map) {
-
-    }
+	// MARK: JSON
+    init?(_ map: Map) { }
 
     mutating func mapping(map: Map) {
     	cardId <- map["cardId"]
@@ -49,6 +48,5 @@ struct Card : Mappable {
         mechanics <- map["mechanics"]
         howToGet <- map["howToGet"]
         howToGetGold <- map["howToGetGold"]
-    	
     }
 }

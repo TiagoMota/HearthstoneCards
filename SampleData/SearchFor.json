@@ -1,0 +1,45 @@
+[
+  {
+    "cardId": "LOEA16_15",
+    "name": "Ysera's Tear",
+    "cardSet": "The League of Explorers",
+    "type": "Spell",
+    "cost": 0,
+    "text": "Gain 4 Mana Crystals this turn only.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/LOEA16_15.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/LOEA16_15_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "DREAM_02",
+    "name": "Ysera Awakens",
+    "cardSet": "Classic",
+    "type": "Spell",
+    "cost": 2,
+    "text": "Deal $5 damage to all characters except Ysera.",
+    "playerClass": "Dream",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/DREAM_02.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/DREAM_02_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_572",
+    "name": "Ysera",
+    "cardSet": "Classic",
+    "type": "Minion",
+    "faction": "Neutral",
+    "rarity": "Legendary",
+    "cost": 9,
+    "attack": 4,
+    "health": 12,
+    "text": "At the end of your turn, add a Dream Card to your hand.",
+    "flavor": "Ysera rules the Emerald Dream.  Which is some kind of green-mirror-version of the real world, or something?",
+    "artist": "Gabor Szikszai",
+    "collectible": true,
+    "elite": true,
+    "race": "Dragon",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_572.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_572_premium.gif",
+    "locale": "enUS"
+  }
+]

@@ -1,0 +1,1277 @@
+[
+  {
+    "cardId": "EX1_355e",
+    "name": "Blessed Champion",
+    "cardSet": "Classic",
+    "type": "Enchantment",
+    "text": "This minion's Attack has been doubled.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "CS2_092e",
+    "name": "Blessing of Kings",
+    "cardSet": "Basic",
+    "type": "Enchantment",
+    "text": "+4\/+4.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "CS2_087e",
+    "name": "Blessing of Might",
+    "cardSet": "Basic",
+    "type": "Enchantment",
+    "faction": "Neutral",
+    "text": "+3 Attack.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_363e",
+    "name": "Blessing of Wisdom",
+    "cardSet": "Classic",
+    "type": "Enchantment",
+    "text": "When this minion attacks, the player who blessed it draws a card.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_363e2",
+    "name": "Blessing of Wisdom",
+    "cardSet": "Classic",
+    "type": "Enchantment",
+    "text": "When this minion attacks, the enemy player draws a card.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_619e",
+    "name": "Equality",
+    "cardSet": "Classic",
+    "type": "Enchantment",
+    "text": "Health changed to 1.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_360e",
+    "name": "Humility",
+    "cardSet": "Basic",
+    "type": "Enchantment",
+    "faction": "Neutral",
+    "text": "Attack has been changed to 1.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_366e",
+    "name": "Justice Served",
+    "cardSet": "Classic",
+    "type": "Enchantment",
+    "text": "Has +1\/+1.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "HERO_04a",
+    "name": "Lady Liadrin",
+    "cardSet": "Hero Skins",
+    "type": "Hero",
+    "rarity": "Epic",
+    "health": 30,
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/HERO_04a.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/HERO_04a_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "AT_075e",
+    "name": "Might of the Hostler",
+    "cardSet": "The Grand Tournament",
+    "type": "Enchantment",
+    "text": "Warhorse Trainer is granting this minion +1 Attack.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "GVG_101e",
+    "name": "Pure",
+    "cardSet": "Goblins vs Gnomes",
+    "type": "Enchantment",
+    "text": "Increased Stats.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "AT_081e",
+    "name": "Purified",
+    "cardSet": "The Grand Tournament",
+    "type": "Enchantment",
+    "text": "Attack changed to 1.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_379e",
+    "name": "Repentance",
+    "cardSet": "Classic",
+    "type": "Enchantment",
+    "text": "Health reduced to 1.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "AT_074e2",
+    "name": "Seal of Champions",
+    "cardSet": "The Grand Tournament",
+    "type": "Enchantment",
+    "text": "+3 Attack and <b>Divine Shield<\/b>.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_382e",
+    "name": "Stand Down!",
+    "cardSet": "Classic",
+    "type": "Enchantment",
+    "text": "Attack changed to 1.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "BRM_018e",
+    "name": "Unchained!",
+    "cardSet": "Blackrock Mountain",
+    "type": "Enchantment",
+    "text": "Your next Dragon costs (2) less.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "HERO_04",
+    "name": "Uther Lightbringer",
+    "cardSet": "Basic",
+    "type": "Hero",
+    "faction": "Neutral",
+    "rarity": "Free",
+    "health": 30,
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/HERO_04.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/HERO_04_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "FP1_020e",
+    "name": "Vengeance",
+    "cardSet": "Naxxramas",
+    "type": "Enchantment",
+    "text": "+3\/+2.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "LOE_017e",
+    "name": "Watched",
+    "cardSet": "The League of Explorers",
+    "type": "Enchantment",
+    "text": "Stats changed to 3\/3.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "GVG_060e",
+    "name": "Well Equipped",
+    "cardSet": "Goblins vs Gnomes",
+    "type": "Enchantment",
+    "text": "+2\/+2.",
+    "playerClass": "Paladin",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "FP1_020",
+    "name": "Avenge",
+    "cardSet": "Naxxramas",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 1,
+    "text": "<b>Secret:<\/b> When one of your minions dies, give a random friendly minion +3\/+2.",
+    "flavor": "Several paladins have joined together to deliver justice under the name \"Justice Force\".  Their lawyer talked them out of calling themselves the Justice League.",
+    "artist": "Zoltan & Gabor",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked in Frostwyrm Lair, in the Naxxramas adventure.",
+    "howToGetGold": "Crafting unlocked in Frostwyrm Lair, in the Naxxramas adventure.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_020.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/FP1_020_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Secret"
+      }
+    ]
+  },
+  {
+    "cardId": "CS2_087",
+    "name": "Blessing of Might",
+    "cardSet": "Basic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Free",
+    "cost": 1,
+    "text": "Give a minion +3 Attack.",
+    "flavor": "\"As in, you MIGHT want to get out of my way.\" - Toad Mackle, recently buffed.",
+    "artist": "Zoltan Boros",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked at Level 1.",
+    "howToGetGold": "Unlocked at Level 45.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/CS2_087.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/CS2_087_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_363",
+    "name": "Blessing of Wisdom",
+    "cardSet": "Classic",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 1,
+    "text": "Choose a minion. Whenever it attacks, draw a card.",
+    "flavor": "Apparently with wisdom comes the knowledge that you should probably be attacking every turn.",
+    "artist": "Chippy",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_363.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_363_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "AT_073",
+    "name": "Competitive Spirit",
+    "cardSet": "The Grand Tournament",
+    "type": "Spell",
+    "rarity": "Rare",
+    "cost": 1,
+    "text": "<b>Secret:<\/b> When your turn starts, give your minions +1\/+1.",
+    "flavor": "Competition can be an inspiration to improve oneself.  Or kill all the competitors.",
+    "artist": "Jim Nelson",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/AT_073.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/AT_073_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Secret"
+      }
+    ]
+  },
+  {
+    "cardId": "EX1_130a",
+    "name": "Defender",
+    "cardSet": "Classic",
+    "type": "Minion",
+    "faction": "Neutral",
+    "rarity": "Common",
+    "cost": 1,
+    "attack": 2,
+    "health": 1,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_130a.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_130a_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_132",
+    "name": "Eye for an Eye",
+    "cardSet": "Classic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Common",
+    "cost": 1,
+    "text": "<b>Secret:<\/b> When your hero takes damage, deal that much damage to the enemy hero.",
+    "flavor": "Justice sometimes takes the form of a closed fist into a soft cheek.",
+    "artist": "James Ryman",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_132.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_132_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Secret"
+      }
+    ]
+  },
+  {
+    "cardId": "EX1_371",
+    "name": "Hand of Protection",
+    "cardSet": "Basic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Free",
+    "cost": 1,
+    "text": "Give a minion <b>Divine Shield<\/b>.",
+    "flavor": "This spell has been renamed so many times, even paladins don\u2019t know what it should be called anymore.",
+    "artist": "Clint Langley",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked at Level 1.",
+    "howToGetGold": "Unlocked at Level 23.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_371.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_371_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_360",
+    "name": "Humility",
+    "cardSet": "Basic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Common",
+    "cost": 1,
+    "text": "Change a minion's Attack to 1.",
+    "flavor": "This card makes something really damp.  Oh wait.  That's \"Humidity.\"",
+    "artist": "Daren Bader",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked at Level 6.",
+    "howToGetGold": "Unlocked at Level 28.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_360.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_360_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "CS2_091",
+    "name": "Light's Justice",
+    "cardSet": "Basic",
+    "type": "Weapon",
+    "faction": "Neutral",
+    "rarity": "Free",
+    "cost": 1,
+    "attack": 1,
+    "durability": 4,
+    "flavor": "Prince Malchezaar was a collector of rare weapons. He'd animate them and have them dance for him.",
+    "artist": "Glenn Rane",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked at Level 1.",
+    "howToGetGold": "Unlocked at Level 36.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/CS2_091.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/CS2_091_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_130",
+    "name": "Noble Sacrifice",
+    "cardSet": "Classic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Common",
+    "cost": 1,
+    "text": "<b>Secret:<\/b> When an enemy attacks, summon a 2\/1 Defender as the new target.",
+    "flavor": "We will always remember you, \"Defender!\"",
+    "artist": "Zoltan & Gabor",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_130.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_130_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Secret"
+      }
+    ]
+  },
+  {
+    "cardId": "EX1_136",
+    "name": "Redemption",
+    "cardSet": "Classic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Common",
+    "cost": 1,
+    "text": "<b>Secret:<\/b> When one of your minions dies, return it to life with 1 Health.",
+    "flavor": "I am not sure how you get demptioned the first time.  It\u2019s a mystery!",
+    "artist": "Ittoku",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_136.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_136_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Secret"
+      }
+    ]
+  },
+  {
+    "cardId": "EX1_379",
+    "name": "Repentance",
+    "cardSet": "Classic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Common",
+    "cost": 1,
+    "text": "<b>Secret:<\/b> After your opponent plays a minion, reduce its Health to 1.",
+    "flavor": "Repentance often comes in the moment before obliteration. Curious.",
+    "artist": "Gonzalo Ordonez",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_379.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_379_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Secret"
+      }
+    ]
+  },
+  {
+    "cardId": "LOE_027",
+    "name": "Sacred Trial",
+    "cardSet": "The League of Explorers",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 1,
+    "text": "<b>Secret:<\/b> After your opponent has at least 3 minions and plays another, destroy it.",
+    "flavor": "You have chosen poorly.",
+    "artist": "Zoltan Boros",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+    "howToGetGold": "Crafting unlocked in the Temple of Orsis, in the League of Explorers adventure.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/LOE_027.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/LOE_027_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Secret"
+      }
+    ]
+  },
+  {
+    "cardId": "CS2_101t",
+    "name": "Silver Hand Recruit",
+    "cardSet": "Basic",
+    "type": "Minion",
+    "rarity": "Free",
+    "cost": 1,
+    "attack": 1,
+    "health": 1,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/CS2_101t.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/CS2_101t_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "AT_077",
+    "name": "Argent Lance",
+    "cardSet": "The Grand Tournament",
+    "type": "Weapon",
+    "rarity": "Rare",
+    "cost": 2,
+    "attack": 2,
+    "durability": 2,
+    "text": "<b>Battlecry:<\/b> Reveal a minion in each deck. If yours costs more, +1 Durability.",
+    "flavor": "The stripes make it look like a candy cane, but we recommend against licking it.",
+    "artist": "Joe Wilson",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/AT_077.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/AT_077_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "EX1_362",
+    "name": "Argent Protector",
+    "cardSet": "Classic",
+    "type": "Minion",
+    "faction": "Neutral",
+    "rarity": "Common",
+    "cost": 2,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>Battlecry:<\/b> Give a friendly minion <b>Divine Shield<\/b>.",
+    "flavor": "\"I'm not saying you can dodge fireballs.  I'm saying with this shield, you won't have to.\"",
+    "artist": "Doug Alexander",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_362.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_362_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "EX1_619",
+    "name": "Equality",
+    "cardSet": "Classic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Rare",
+    "cost": 2,
+    "text": "Change the Health of ALL minions to 1.",
+    "flavor": "We are all special unique snowflakes... with 1 Health.",
+    "artist": "Michal Ivan",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_619.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_619_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "CS2_089",
+    "name": "Holy Light",
+    "cardSet": "Basic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Free",
+    "cost": 2,
+    "text": "Restore #6 Health.",
+    "flavor": "If you are often bathed in Holy Light, you should consider wearing sunscreen.",
+    "artist": "Zoltan & Gabor",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked at Level 1.",
+    "howToGetGold": "Unlocked at Level 15.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/CS2_089.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/CS2_089_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "CS2_101_H1",
+    "name": "Reinforce",
+    "cardSet": "Hero Skins",
+    "type": "Hero Power",
+    "rarity": "Free",
+    "cost": 2,
+    "text": "<b>Hero Power<\/b>\nSummon a 1\/1 Silver Hand Recruit.",
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/CS2_101_H1.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/CS2_101_H1_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "CS2_101",
+    "name": "Reinforce",
+    "cardSet": "Basic",
+    "type": "Hero Power",
+    "faction": "Neutral",
+    "rarity": "Free",
+    "cost": 2,
+    "text": "<b>Hero Power<\/b>\nSummon a 1\/1 Silver Hand Recruit.",
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/CS2_101.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/CS2_101_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "GVG_057",
+    "name": "Seal of Light",
+    "cardSet": "Goblins vs Gnomes",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 2,
+    "text": "Restore #4 Health to your hero and gain +2 Attack this turn.",
+    "flavor": "The walrus of Light restores EIGHT Health.",
+    "artist": "Jason Chan",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/GVG_057.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/GVG_057_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "GVG_058",
+    "name": "Shielded Minibot",
+    "cardSet": "Goblins vs Gnomes",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 2,
+    "attack": 2,
+    "health": 2,
+    "text": "<b>Divine Shield<\/b>",
+    "flavor": "He chooses to believe what he is programmed to believe!",
+    "artist": "Raymond Swanland",
+    "collectible": true,
+    "race": "Mech",
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/GVG_058.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/GVG_058_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Divine Shield"
+      }
+    ]
+  },
+  {
+    "cardId": "AT_132_PALADIN",
+    "name": "The Silver Hand",
+    "cardSet": "The Grand Tournament",
+    "type": "Hero Power",
+    "cost": 2,
+    "text": "<b>Hero Power<\/b>\nSummon two 1\/1 Recruits.",
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/AT_132_PALADIN.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/AT_132_PALADIN_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_382",
+    "name": "Aldor Peacekeeper",
+    "cardSet": "Classic",
+    "type": "Minion",
+    "faction": "Neutral",
+    "rarity": "Rare",
+    "cost": 3,
+    "attack": 3,
+    "health": 3,
+    "text": "<b>Battlecry:<\/b> Change an enemy minion's Attack to 1.",
+    "flavor": "The Aldor hate two things: the Scryers and smooth jazz.",
+    "artist": "Dany Orizio",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_382.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_382_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "GVG_059",
+    "name": "Coghammer",
+    "cardSet": "Goblins vs Gnomes",
+    "type": "Weapon",
+    "rarity": "Epic",
+    "cost": 3,
+    "attack": 2,
+    "durability": 3,
+    "text": "<b>Battlecry:<\/b> Give a random friendly minion <b>Divine Shield<\/b> and <b>Taunt<\/b>.",
+    "flavor": "So you ripped this out of a machine, carved some runes on it, stuck it on a handle, and now it's a weapon of great divine power? Seems legit.",
+    "artist": "Dany Orizio",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/GVG_059.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/GVG_059_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "EX1_349",
+    "name": "Divine Favor",
+    "cardSet": "Classic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Rare",
+    "cost": 3,
+    "text": "Draw cards until you have as many in hand as your opponent.",
+    "flavor": "This is not just a favor, but a divine one, like helping someone move a couch with a fold out bed!",
+    "artist": "Lucas Graciano",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_349.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_349_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "GVG_061",
+    "name": "Muster for Battle",
+    "cardSet": "Goblins vs Gnomes",
+    "type": "Spell",
+    "rarity": "Rare",
+    "cost": 3,
+    "text": "Summon three 1\/1 Silver Hand Recruits. Equip a 1\/4 Weapon.",
+    "flavor": "\"I'm bringing the guacamole!\" \u2013 One of the most successful (yet rare) Silver Hand rallying cries",
+    "artist": "Mike Hayes",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/GVG_061.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/GVG_061_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "GVG_101",
+    "name": "Scarlet Purifier",
+    "cardSet": "Goblins vs Gnomes",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 3,
+    "attack": 4,
+    "health": 3,
+    "text": "<b>Battlecry<\/b>: Deal 2 damage to all minions with <b>Deathrattle<\/b>.",
+    "flavor": "The Scarlet Crusade is doing market research to find out if the \"Mauve Crusade\" would be better received.",
+    "artist": "Anton Zemskov",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/GVG_101.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/GVG_101_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "AT_074",
+    "name": "Seal of Champions",
+    "cardSet": "The Grand Tournament",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 3,
+    "text": "Give a minion\n+3 Attack and <b>Divine Shield<\/b>.",
+    "flavor": "\"Arf! Arf! Arf!\" - Seal of Champions",
+    "artist": "Jonboy Meyers",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/AT_074.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/AT_074_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_366",
+    "name": "Sword of Justice",
+    "cardSet": "Classic",
+    "type": "Weapon",
+    "faction": "Neutral",
+    "rarity": "Epic",
+    "cost": 3,
+    "attack": 1,
+    "durability": 5,
+    "text": "After you summon a minion, give it +1\/+1 and this loses 1 Durability.",
+    "flavor": "I dub you Sir Loin of Beef!",
+    "artist": "Efrem Palacios",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_366.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_366_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "AT_075",
+    "name": "Warhorse Trainer",
+    "cardSet": "The Grand Tournament",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 3,
+    "attack": 2,
+    "health": 4,
+    "text": "Your Silver Hand Recruits have +1 Attack.",
+    "flavor": "He doesn't even get Sundays off.  Every day he's hostling.",
+    "artist": "Zoltan & Gabor",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/AT_075.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/AT_075_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Aura"
+      }
+    ]
+  },
+  {
+    "cardId": "CS2_092",
+    "name": "Blessing of Kings",
+    "cardSet": "Basic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Common",
+    "cost": 4,
+    "text": "Give a minion +4\/+4. <i>(+4 Attack\/+4 Health)<\/i>",
+    "flavor": "Given the number of kings who have been assassinated, are you sure you want their blessing?",
+    "artist": "Lucas Graciano",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked at Level 10.",
+    "howToGetGold": "Unlocked at Level 49.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/CS2_092.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/CS2_092_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "CS2_093",
+    "name": "Consecration",
+    "cardSet": "Basic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Common",
+    "cost": 4,
+    "text": "Deal $2 damage to all enemies.",
+    "flavor": "Consecrated ground glows with Holy energy.  But it smells a little, too.",
+    "artist": "Vance Kovacs",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked at Level 4.",
+    "howToGetGold": "Unlocked at Level 43.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/CS2_093.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/CS2_093_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "CS2_094",
+    "name": "Hammer of Wrath",
+    "cardSet": "Basic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Free",
+    "cost": 4,
+    "text": "Deal $3 damage.\nDraw a card.",
+    "flavor": "A good paladin has many tools.  Hammer of Wrath, Pliers of Vengeance, Hacksaw of Justice, etc.",
+    "artist": "Efrem Palacios",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked at Level 1.",
+    "howToGetGold": "Unlocked at Level 32.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/CS2_094.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/CS2_094_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "LOE_017",
+    "name": "Keeper of Uldaman",
+    "cardSet": "The League of Explorers",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 4,
+    "attack": 3,
+    "health": 4,
+    "text": "<b>Battlecry:<\/b> Set a minion's Attack and Health to 3.",
+    "flavor": "U da man!  No, U da man!",
+    "artist": "James Ryman",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked in Uldaman, in the League of Explorers adventure.",
+    "howToGetGold": "Crafting unlocked in Uldaman, in the League of Explorers adventure.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/LOE_017.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/LOE_017_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "AT_076",
+    "name": "Murloc Knight",
+    "cardSet": "The Grand Tournament",
+    "type": "Minion",
+    "rarity": "Common",
+    "cost": 4,
+    "attack": 3,
+    "health": 4,
+    "text": "<b>Inspire:<\/b> Summon a random Murloc.",
+    "flavor": "Hee hee!  Look at his cute little feet.",
+    "artist": "Sam Nielson",
+    "collectible": true,
+    "race": "Murloc",
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/AT_076.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/AT_076_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Inspire"
+      }
+    ]
+  },
+  {
+    "cardId": "CS2_097",
+    "name": "Truesilver Champion",
+    "cardSet": "Basic",
+    "type": "Weapon",
+    "faction": "Neutral",
+    "rarity": "Common",
+    "cost": 4,
+    "attack": 4,
+    "durability": 2,
+    "text": "Whenever your hero attacks, restore 2 Health to it.",
+    "flavor": "It Slices, it Dices. You can cut a tin can with it. (But you wouldn't want to.)",
+    "artist": "Ryan Sook",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked at Level 2.",
+    "howToGetGold": "Unlocked at Level 40.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/CS2_097.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/CS2_097_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_383t",
+    "name": "Ashbringer",
+    "cardSet": "Classic",
+    "type": "Weapon",
+    "rarity": "Legendary",
+    "cost": 5,
+    "attack": 5,
+    "durability": 3,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_383t.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_383t_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_355",
+    "name": "Blessed Champion",
+    "cardSet": "Classic",
+    "type": "Spell",
+    "rarity": "Rare",
+    "cost": 5,
+    "text": "Double a minion's Attack.",
+    "flavor": "This card causes double the trouble AND double the fun.",
+    "artist": "Tyler Walpole",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_355.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_355_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "GVG_063",
+    "name": "Bolvar Fordragon",
+    "cardSet": "Goblins vs Gnomes",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 5,
+    "attack": 1,
+    "health": 7,
+    "text": "Whenever a friendly minion dies while this is in your hand, gain +1 Attack.",
+    "flavor": "Spoiler alert: Bolvar gets melted and then sits on an ice throne and everyone forgets about him.",
+    "artist": "Tooth",
+    "collectible": true,
+    "elite": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/GVG_063.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/GVG_063_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "GVG_062",
+    "name": "Cobalt Guardian",
+    "cardSet": "Goblins vs Gnomes",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 5,
+    "attack": 6,
+    "health": 3,
+    "text": "Whenever you summon a Mech, gain <b>Divine Shield<\/b>.",
+    "flavor": "Guardians used to be built out of Adamantium, but production got moved to Gadgetzan and Cobalt was cheap.",
+    "artist": "Jim Nelson",
+    "collectible": true,
+    "race": "Mech",
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/GVG_062.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/GVG_062_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "BRM_018",
+    "name": "Dragon Consort",
+    "cardSet": "Blackrock Mountain",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 5,
+    "attack": 5,
+    "health": 5,
+    "text": "<b>Battlecry:<\/b> The next Dragon you play costs (2) less.",
+    "flavor": "Everybody wants someone to snuggle with. Even giant armored scaly draconic beasts of destruction.",
+    "artist": "Raymond Swanland",
+    "collectible": true,
+    "race": "Dragon",
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked in Blackrock Spire, in the Blackrock Mountain adventure.",
+    "howToGetGold": "Crafting unlocked in Blackrock Spire, in the Blackrock Mountain adventure.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/BRM_018.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/BRM_018_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "EX1_365",
+    "name": "Holy Wrath",
+    "cardSet": "Classic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Rare",
+    "cost": 5,
+    "text": "Draw a card and deal damage equal to its cost.",
+    "flavor": "C'mon Molten Giant!!",
+    "artist": "Justin Sweet",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_365.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_365_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "AffectedBySpellPower"
+      }
+    ]
+  },
+  {
+    "cardId": "GVG_060",
+    "name": "Quartermaster",
+    "cardSet": "Goblins vs Gnomes",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 5,
+    "attack": 2,
+    "health": 5,
+    "text": "<b>Battlecry:<\/b> Give your Silver Hand Recruits +2\/+2.",
+    "flavor": "His specialty? Dividing things into four pieces.",
+    "artist": "Phroilan Gardner",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/GVG_060.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/GVG_060_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "BRM_001",
+    "name": "Solemn Vigil",
+    "cardSet": "Blackrock Mountain",
+    "type": "Spell",
+    "rarity": "Common",
+    "cost": 5,
+    "text": "Draw 2 cards. Costs (1) less for each minion that died this turn.",
+    "flavor": "Each year, folk gather in front of Blackrock Mountain to mourn those who were mind-controlled into the lava.",
+    "artist": "Jaime Jones",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked in Hidden Laboratory, in the Blackrock Mountain adventure.",
+    "howToGetGold": "Crafting unlocked in Hidden Laboratory, in the Blackrock Mountain adventure.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/BRM_001.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/BRM_001_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "AT_104",
+    "name": "Tuskarr Jouster",
+    "cardSet": "The Grand Tournament",
+    "type": "Minion",
+    "rarity": "Rare",
+    "cost": 5,
+    "attack": 5,
+    "health": 5,
+    "text": "<b>Battlecry:<\/b> Reveal a minion in each deck. If yours costs more, restore 7 Health to your hero.",
+    "flavor": "Just could not be talked out of using his turtle for the joust...",
+    "artist": "Skan Srisuwan",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/AT_104.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/AT_104_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "EX1_384",
+    "name": "Avenging Wrath",
+    "cardSet": "Classic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Epic",
+    "cost": 6,
+    "text": "Deal $8 damage randomly split among all enemies.",
+    "flavor": "Wham! Wham! Wham! Wham! Wham! Wham! Wham! Wham!",
+    "artist": "Alex Garner",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_384.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_384_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "ImmuneToSpellpower"
+      }
+    ]
+  },
+  {
+    "cardId": "AT_078",
+    "name": "Enter the Coliseum",
+    "cardSet": "The Grand Tournament",
+    "type": "Spell",
+    "rarity": "Epic",
+    "cost": 6,
+    "text": "Destroy all minions except each player's highest Attack minion.",
+    "flavor": "You have to get past the vendors first.  So many are lost to shopping...",
+    "artist": "Mauricio Herrera",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/AT_078.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/AT_078_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "AT_079",
+    "name": "Mysterious Challenger",
+    "cardSet": "The Grand Tournament",
+    "type": "Minion",
+    "rarity": "Epic",
+    "cost": 6,
+    "attack": 6,
+    "health": 6,
+    "text": "<b>Battlecry:<\/b> Put one of each <b>Secret<\/b> from your deck into the battlefield.",
+    "flavor": "He may sound surly and antisocial, but he's actually just really shy.",
+    "artist": "Zoltan Boros",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/AT_079.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/AT_079_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "AT_081",
+    "name": "Eadric the Pure",
+    "cardSet": "The Grand Tournament",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 7,
+    "attack": 3,
+    "health": 7,
+    "text": "<b>Battlecry:<\/b> Change all enemy minions'\nAttack to 1.",
+    "flavor": "Nobody rocks a monocle like Eadric.",
+    "artist": " James Ryman",
+    "collectible": true,
+    "elite": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/AT_081.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/AT_081_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "CS2_088",
+    "name": "Guardian of Kings",
+    "cardSet": "Basic",
+    "type": "Minion",
+    "faction": "Neutral",
+    "rarity": "Common",
+    "cost": 7,
+    "attack": 5,
+    "health": 6,
+    "text": "<b>Battlecry:<\/b> Restore 6 Health to your hero.",
+    "flavor": "Holy beings from the beyond are so clich\u00e9!",
+    "artist": "E.M. Gist",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked at Level 8.",
+    "howToGetGold": "Unlocked at Level 47.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/CS2_088.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/CS2_088_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Battlecry"
+      }
+    ]
+  },
+  {
+    "cardId": "EX1_354",
+    "name": "Lay on Hands",
+    "cardSet": "Classic",
+    "type": "Spell",
+    "faction": "Neutral",
+    "rarity": "Epic",
+    "cost": 8,
+    "text": "Restore #8 Health. Draw 3 cards.",
+    "flavor": "A grammatically awkward life saver.",
+    "artist": "Raymond Swanland",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_354.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_354_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "EX1_383",
+    "name": "Tirion Fordring",
+    "cardSet": "Classic",
+    "type": "Minion",
+    "faction": "Neutral",
+    "rarity": "Legendary",
+    "cost": 8,
+    "attack": 6,
+    "health": 6,
+    "text": "<b>Divine Shield<\/b>. <b>Taunt<\/b>. <b>Deathrattle:<\/b> Equip a 5\/3 Ashbringer.",
+    "flavor": "If you haven't heard the Tirion Fordring theme song, it's because it doesn't exist.",
+    "artist": "Brom",
+    "collectible": true,
+    "elite": true,
+    "playerClass": "Paladin",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/EX1_383.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/EX1_383_premium.gif",
+    "locale": "enUS",
+    "mechanics": [
+      {
+        "name": "Divine Shield"
+      },
+      {
+        "name": "Taunt"
+      },
+      {
+        "name": "Deathrattle"
+      }
+    ]
+  },
+  {
+    "cardId": "LOE_026",
+    "name": "Anyfin Can Happen",
+    "cardSet": "The League of Explorers",
+    "type": "Spell",
+    "rarity": "Rare",
+    "cost": 10,
+    "text": "Summon 7 Murlocs that died this game.",
+    "flavor": "Theme song by Ellie Goldfin and Blagghghlrlrl Harris.",
+    "artist": "Ryan Metcalf",
+    "collectible": true,
+    "playerClass": "Paladin",
+    "howToGet": "Unlocked in The Ruined City, in the League of Explorers adventure.",
+    "howToGetGold": "Crafting unlocked in The Ruined City, in the League of Explorers adventure.",
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/LOE_026.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/LOE_026_premium.gif",
+    "locale": "enUS"
+  }
+]

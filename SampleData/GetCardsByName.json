@@ -1,0 +1,36 @@
+[
+  {
+    "cardId": "NAX13_01",
+    "name": "Thaddius",
+    "cardSet": "Naxxramas",
+    "type": "Hero",
+    "health": 30,
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/NAX13_01.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/NAX13_01_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "NAX13_01H",
+    "name": "Thaddius",
+    "cardSet": "Naxxramas",
+    "type": "Hero",
+    "health": 45,
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/NAX13_01H.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/NAX13_01H_premium.gif",
+    "locale": "enUS"
+  },
+  {
+    "cardId": "FP1_014t",
+    "name": "Thaddius",
+    "cardSet": "Naxxramas",
+    "type": "Minion",
+    "rarity": "Legendary",
+    "cost": 10,
+    "attack": 11,
+    "health": 11,
+    "elite": true,
+    "img": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/original\/FP1_014t.png",
+    "imgGold": "http:\/\/wow.zamimg.com\/images\/hearthstone\/cards\/enus\/animated\/FP1_014t_premium.gif",
+    "locale": "enUS"
+  }
+]
