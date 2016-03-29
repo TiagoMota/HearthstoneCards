@@ -7,13 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		39268CB41CAB30A800625C33 /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39268CB31CAB30A800625C33 /* BaseViewController.swift */; };
 		39296C6C1CA46CD200DD9A48 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39296C6B1CA46CD200DD9A48 /* AppDelegate.swift */; };
 		39296C711CA46CD200DD9A48 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39296C6F1CA46CD200DD9A48 /* Main.storyboard */; };
 		39296C731CA46CD200DD9A48 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 39296C721CA46CD200DD9A48 /* Assets.xcassets */; };
 		39296C761CA46CD200DD9A48 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 39296C741CA46CD200DD9A48 /* LaunchScreen.storyboard */; };
 		39296C811CA46CD300DD9A48 /* HearthstoneCardsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39296C801CA46CD300DD9A48 /* HearthstoneCardsTests.swift */; };
 		39296C8C1CA46CD300DD9A48 /* HearthstoneCardsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39296C8B1CA46CD300DD9A48 /* HearthstoneCardsUITests.swift */; };
-		39A6CED91CA9AF6800F592AD /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A6CED81CA9AF6800F592AD /* ViewController.swift */; };
+		39A6CED91CA9AF6800F592AD /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A6CED81CA9AF6800F592AD /* DetailViewController.swift */; };
 		39A6CEE01CA9AF8300F592AD /* GetCardsByClass.json in Resources */ = {isa = PBXBuildFile; fileRef = 39A6CEDB1CA9AF8300F592AD /* GetCardsByClass.json */; };
 		39A6CEE11CA9AF8300F592AD /* GetCardsByName.json in Resources */ = {isa = PBXBuildFile; fileRef = 39A6CEDC1CA9AF8300F592AD /* GetCardsByName.json */; };
 		39A6CEE21CA9AF8300F592AD /* GetCardsByRarity.json in Resources */ = {isa = PBXBuildFile; fileRef = 39A6CEDD1CA9AF8300F592AD /* GetCardsByRarity.json */; };
@@ -24,6 +25,7 @@
 		39A6CEEB1CA9AF9800F592AD /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A6CEE81CA9AF9800F592AD /* NetworkManager.swift */; };
 		39A6CEEF1CA9AFAA00F592AD /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A6CEED1CA9AFAA00F592AD /* Card.swift */; };
 		39A6CEF01CA9AFAA00F592AD /* Mechanic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A6CEEE1CA9AFAA00F592AD /* Mechanic.swift */; };
+		39A6CEF41CAB283D00F592AD /* Dependencies.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39A6CEF31CAB283D00F592AD /* Dependencies.swift */; };
 		DB153B3612869873E0C17719 /* Pods_HearthstoneCards.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 6A43CA6F749F2B81C3C2284C /* Pods_HearthstoneCards.framework */; };
 /* End PBXBuildFile section */
 
@@ -45,6 +47,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		39268CB31CAB30A800625C33 /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
 		39296C681CA46CD200DD9A48 /* HearthstoneCards.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HearthstoneCards.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		39296C6B1CA46CD200DD9A48 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		39296C701CA46CD200DD9A48 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
@@ -57,7 +60,7 @@
 		39296C871CA46CD300DD9A48 /* HearthstoneCardsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HearthstoneCardsUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		39296C8B1CA46CD300DD9A48 /* HearthstoneCardsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HearthstoneCardsUITests.swift; sourceTree = "<group>"; };
 		39296C8D1CA46CD300DD9A48 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		39A6CED81CA9AF6800F592AD /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ViewController.swift; path = Controller/ViewController.swift; sourceTree = "<group>"; };
+		39A6CED81CA9AF6800F592AD /* DetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DetailViewController.swift; path = Controller/DetailViewController.swift; sourceTree = "<group>"; };
 		39A6CEDB1CA9AF8300F592AD /* GetCardsByClass.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = GetCardsByClass.json; path = SampleData/GetCardsByClass.json; sourceTree = "<group>"; };
 		39A6CEDC1CA9AF8300F592AD /* GetCardsByName.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = GetCardsByName.json; path = SampleData/GetCardsByName.json; sourceTree = "<group>"; };
 		39A6CEDD1CA9AF8300F592AD /* GetCardsByRarity.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = GetCardsByRarity.json; path = SampleData/GetCardsByRarity.json; sourceTree = "<group>"; };
@@ -68,6 +71,7 @@
 		39A6CEE81CA9AF9800F592AD /* NetworkManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = NetworkManager.swift; path = Model/Network/NetworkManager.swift; sourceTree = "<group>"; };
 		39A6CEED1CA9AFAA00F592AD /* Card.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Card.swift; path = Model/Object/Card.swift; sourceTree = "<group>"; };
 		39A6CEEE1CA9AFAA00F592AD /* Mechanic.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Mechanic.swift; path = Model/Object/Mechanic.swift; sourceTree = "<group>"; };
+		39A6CEF31CAB283D00F592AD /* Dependencies.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dependencies.swift; sourceTree = "<group>"; };
 		6A43CA6F749F2B81C3C2284C /* Pods_HearthstoneCards.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HearthstoneCards.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		BFCE55EF9D3257C52F85B6C3 /* Pods-HearthstoneCards.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HearthstoneCards.release.xcconfig"; path = "Pods/Target Support Files/Pods-HearthstoneCards/Pods-HearthstoneCards.release.xcconfig"; sourceTree = "<group>"; };
 		E9DFB76236B05273B9EAE195 /* Pods-HearthstoneCards.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HearthstoneCards.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HearthstoneCards/Pods-HearthstoneCards.debug.xcconfig"; sourceTree = "<group>"; };
@@ -139,6 +143,7 @@
 				39296C6B1CA46CD200DD9A48 /* AppDelegate.swift */,
 				397B1FEA1CA4715F00695125 /* Resources */,
 				39296C771CA46CD200DD9A48 /* Info.plist */,
+				39A6CEF31CAB283D00F592AD /* Dependencies.swift */,
 			);
 			path = HearthstoneCards;
 			sourceTree = "<group>";
@@ -174,7 +179,8 @@
 		39A6CEDA1CA9AF6B00F592AD /* Controller */ = {
 			isa = PBXGroup;
 			children = (
-				39A6CED81CA9AF6800F592AD /* ViewController.swift */,
+				39A6CED81CA9AF6800F592AD /* DetailViewController.swift */,
+				39268CB31CAB30A800625C33 /* BaseViewController.swift */,
 			);
 			name = Controller;
 			sourceTree = "<group>";
@@ -414,10 +420,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				39A6CED91CA9AF6800F592AD /* ViewController.swift in Sources */,
+				39A6CED91CA9AF6800F592AD /* DetailViewController.swift in Sources */,
 				39A6CEEF1CA9AFAA00F592AD /* Card.swift in Sources */,
 				39A6CEEA1CA9AF9800F592AD /* HearthstoneService.swift in Sources */,
 				39A6CEEB1CA9AF9800F592AD /* NetworkManager.swift in Sources */,
+				39A6CEF41CAB283D00F592AD /* Dependencies.swift in Sources */,
+				39268CB41CAB30A800625C33 /* BaseViewController.swift in Sources */,
 				39296C6C1CA46CD200DD9A48 /* AppDelegate.swift in Sources */,
 				39A6CEE91CA9AF9800F592AD /* Constants.swift in Sources */,
 				39A6CEF01CA9AFAA00F592AD /* Mechanic.swift in Sources */,
