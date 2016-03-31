@@ -8,16 +8,11 @@
 
 import UIKit
 import RxSwift
-import Nuke
+import Kingfisher
 
 class DetailViewController: BaseViewController {
 
 	@IBOutlet weak var imgView: UIImageView!
-
-	@IBOutlet weak var nameLbl: UILabel!
-	@IBOutlet weak var attackLbl: UILabel!
-	@IBOutlet weak var healthLbl: UILabel!
-	@IBOutlet weak var rarityLbl: UILabel!
 
 	override func viewDidLoad() {
 		super.viewDidLoad()
@@ -42,11 +37,22 @@ class DetailViewController: BaseViewController {
 	}
 
 	private func configureDetail(card: Card) {
-		let request = ImageRequest(URL: card.getImgUrl()!)
-		imgView.nk_setImageWith(request)
-
-		attackLbl.text = "\(card.attack!)"
-		healthLbl.text = "\(card.health!)"
-		rarityLbl.text = "\(card.rarity!)"
+		let queue = dispatch_get_global_queue(DISPATCH_QUEUE_PRIORITY_DEFAULT, 0)
+		let optionInfo: KingfisherOptionsInfo = [
+				.ForceRefresh,
+				.DownloadPriority(1.0),
+				.CallbackDispatchQueue(queue),
+				.Transition(ImageTransition.Fade(1))
+		]
+		imgView.kf_setImageWithURL(card.getImgUrl()!,
+			placeholderImage: UIImage(named: "card_back"),
+			optionsInfo: optionInfo,
+			progressBlock: { (receivedSize, totalSize) -> () in
+				print("Download Progress: \(receivedSize)/\(totalSize)")
+			},
+			completionHandler: { (image, error, cacheType, imageURL) -> () in
+				print("Downloaded and set!")
+			}
+		)
 	}
 }

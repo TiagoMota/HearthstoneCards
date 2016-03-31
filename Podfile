@@ -16,5 +16,5 @@ target 'HearthstoneCards' do
 	pod 'Moya-ObjectMapper/RxSwift', '~> 1.1.6'
 
 	# Image downloading and caching
-    pod "Nuke"
+    pod 'Kingfisher', '~> 2.2'
 end

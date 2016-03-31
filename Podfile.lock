@@ -1,5 +1,6 @@
 PODS:
   - Alamofire (3.3.0)
+  - Kingfisher (2.2.0)
   - Moya (6.2.0):
     - Moya/Core (= 6.2.0)
   - Moya-ObjectMapper (1.1.7):
@@ -17,7 +18,6 @@ PODS:
   - Moya/RxSwift (6.2.0):
     - Moya/Core
     - RxSwift (~> 2.0)
-  - Nuke (3.0.0)
   - ObjectMapper (1.1.5)
   - Result (1.0.2)
   - RxCocoa (2.2.0):
@@ -25,19 +25,19 @@ PODS:
   - RxSwift (2.2.0)
 
 DEPENDENCIES:
+  - Kingfisher (~> 2.2)
   - Moya
   - Moya-ObjectMapper (~> 1.1.6)
   - Moya-ObjectMapper/RxSwift (~> 1.1.6)
   - Moya/RxSwift
-  - Nuke
   - RxCocoa (~> 2.0)
   - RxSwift (~> 2.0)
 
 SPEC CHECKSUMS:
   Alamofire: 9054db4a1b1ca9e363223183e01cea380159a27c
+  Kingfisher: 350869ed88d6451803b390475d977abdd9f0a357
   Moya: a5e57a405584177027daab240f4d47baa0722562
   Moya-ObjectMapper: 909483dd57b551082700d6a19dca0e9b96386496
-  Nuke: 0bf58cc17da620fbfd9ecf67a2dd8d65ed50635e
   ObjectMapper: 528b1a6677a6acac7747edd508576983e76a9148
   Result: dd3dd71af3fa2e262f1a999e14fba2c25ec14f16
   RxCocoa: 42efb7a7145a8d1d5878e94ce48a580d29e0c796

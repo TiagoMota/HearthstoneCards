@@ -52,20 +52,10 @@ struct Card: Mappable {
 	}
 
 	func getImgUrl() -> NSURL? {
-		if img != nil {
-			let imgUrl = img!.stringByReplacingOccurrencesOfString("http://", withString: "https://")
-			return NSURL(string: imgUrl)
-		} else {
-			return nil
-		}
+		return NSURL(string: img!)
 	}
 
 	func getImgGoldUrl() -> NSURL? {
-		if img != nil {
-			let imgUrl = imgGold!.stringByReplacingOccurrencesOfString("http://", withString: "https://")
-			return NSURL(string: imgUrl)
-		} else {
-			return nil
-		}
+		return NSURL(string: imgGold!)
 	}
 }

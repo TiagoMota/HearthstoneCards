@@ -85,9 +85,9 @@ strip_invalid_archs() {
 
 if [[ "$CONFIGURATION" == "Debug" ]]; then
   install_framework "Pods-HearthstoneCards/Alamofire.framework"
+  install_framework "Pods-HearthstoneCards/Kingfisher.framework"
   install_framework "Pods-HearthstoneCards/Moya.framework"
   install_framework "Pods-HearthstoneCards/Moya_ObjectMapper.framework"
-  install_framework "Pods-HearthstoneCards/Nuke.framework"
   install_framework "Pods-HearthstoneCards/ObjectMapper.framework"
   install_framework "Pods-HearthstoneCards/Result.framework"
   install_framework "Pods-HearthstoneCards/RxCocoa.framework"
@@ -95,9 +95,9 @@ if [[ "$CONFIGURATION" == "Debug" ]]; then
 fi
 if [[ "$CONFIGURATION" == "Release" ]]; then
   install_framework "Pods-HearthstoneCards/Alamofire.framework"
+  install_framework "Pods-HearthstoneCards/Kingfisher.framework"
   install_framework "Pods-HearthstoneCards/Moya.framework"
   install_framework "Pods-HearthstoneCards/Moya_ObjectMapper.framework"
-  install_framework "Pods-HearthstoneCards/Nuke.framework"
   install_framework "Pods-HearthstoneCards/ObjectMapper.framework"
   install_framework "Pods-HearthstoneCards/Result.framework"
   install_framework "Pods-HearthstoneCards/RxCocoa.framework"
